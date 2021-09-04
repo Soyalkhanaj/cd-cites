@@ -97,7 +97,7 @@ a:hover {
 
 .breweries > ul > li > figure > figcaption > h3 {
   color: white;
-  padding: .75rem;
+  padding: .50rem;
   font-size: 1.25rem;
 }
 
@@ -115,7 +115,7 @@ a:hover {
 
 /* footer */
 footer {
-  background-color: #333;
+  background-color: #DADDDB;
   padding: .75rem;
   color: white;
   text-align: center;
